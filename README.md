@@ -2,6 +2,7 @@
 Pruebas de conexión desde repl.it
 
 
+!(/images/DGRobotics4Rookies.png)
 
-![](/images/DGRobotics4Rookies.png)
+
 
