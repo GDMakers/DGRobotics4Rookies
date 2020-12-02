@@ -21,35 +21,26 @@ Nos centraremos en el desarrollo de las habilidades blandas entre los estudiante
 Utilizaremos la metodología de Grupos de Desarrollo:
 - Los estudiantes que participen en el proyecto deberán formar a otros estudiantes. Para ello fomentaremos la creación de talleres impartidos por dichos estudiantes en el centro o con estudiantes de otros centros.
 - Se crearán materiales útiles para la sociedad que serán compartidos en abierto en GitHub.
+- Crear el paso 0 para los estudiantes que comienzan con GitHub y ROS.
+- Formar a los estudiantes en el manejo de GitHub.
+- Crear tutoriales con GitHub sobre GitHub.
+- Crear tutoriales con GitHub orientados a la robótica.
+- Conocer el lenguaje de programación ROS
+- Crear uno o varios programas con ROS utilizando GitHub
+- Crear materiales sobre ROS en GitHub que sirvan de material de formación para otros estudiantes.
+
 
 ## Temporalización
-| Objetivos  | Enero  | Febrero  | Marzo  | Abril  |
-|---|---|---|---|---|
-|  sd |   as|   |   |   |
-|   |   |   |   |   |
-|   |   |   |   |   |
 
 
-<table class="egt">
+### Fechas límite
 
-  <tr>
+Formación
+- 20 enero: formación en GitHub.
+- 15 febrero: formación en ROS.
+Elaboración de materiales
+- 15 marzo: materiales de formación sobre el uso de GitHub.
+- 15 abril: materiales de formación sobre el uso de ROS en GitHub.
+- 20 mayo: programas creados en ROS.
 
-    <td>Celda 1</td>
 
-    <td>Celda 2</td>
-
-    <td>Celda 3</td>
-
-  </tr>
-
-  <tr>
-
-    <td>Celda 4</td>
-
-    <td>Celda 5</td>
-
-    <td>Celda 6</td>
-
-  </tr>
-
-</table>
