@@ -32,6 +32,7 @@ Utilizaremos la metodología de Grupos de Desarrollo:
 
 ## Temporalización
 
+![Temporalización del proyecto DGR4R](/images/TempR4R.png)
 
 ### Fechas límite
 
