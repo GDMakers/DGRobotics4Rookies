@@ -22,3 +22,9 @@ Utilizaremos la metodología de Grupos de Desarrollo:
 - Los estudiantes que participen en el proyecto deberán formar a otros estudiantes. Para ello fomentaremos la creación de talleres impartidos por dichos estudiantes en el centro o con estudiantes de otros centros.
 - Se crearán materiales útiles para la sociedad que serán compartidos en abierto en GitHub.
 
+## Temporalización
+| Objetivos  | Enero  | Febrero  | Marzo  | Abril  |
+|---|---|---|---|---|
+|  sd |   as|   |   |   |
+|   |   |   |   |   |
+|   |   |   |   |   |
