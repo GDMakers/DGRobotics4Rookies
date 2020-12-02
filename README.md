@@ -38,7 +38,9 @@ Utilizaremos la metodología de Grupos de Desarrollo:
 Formación
 - 20 enero: formación en GitHub.
 - 15 febrero: formación en ROS.
+
 Elaboración de materiales
+
 - 15 marzo: materiales de formación sobre el uso de GitHub.
 - 15 abril: materiales de formación sobre el uso de ROS en GitHub.
 - 20 mayo: programas creados en ROS.
