@@ -32,7 +32,7 @@ Utilizaremos la metodología de Grupos de Desarrollo:
 
 ## Introducción
 
-Intro
+[Intro]
 
 [Intro]: https://github.com/GDMakers/DGRobotis4Rookies/blob/master/Intro/Intro.md
 
