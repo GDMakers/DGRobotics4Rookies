@@ -17,6 +17,7 @@ Nos centraremos en el desarrollo de las habilidades blandas entre los estudiante
 - Toma de decisiones
 - Negociación.
 
+
 ## Objetivos específicos
 Utilizaremos la metodología de Grupos de Desarrollo:
 - Los estudiantes que participen en el proyecto deberán formar a otros estudiantes. Para ello fomentaremos la creación de talleres impartidos por dichos estudiantes en el centro o con estudiantes de otros centros.
@@ -29,6 +30,8 @@ Utilizaremos la metodología de Grupos de Desarrollo:
 - Crear uno o varios programas con ROS utilizando GitHub
 - Crear materiales sobre ROS en GitHub que sirvan de material de formación para otros estudiantes.
 
+## Introducción
+[Intro]: Intro/Intro.md
 
 ## Temporalización
 
