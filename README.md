@@ -31,6 +31,9 @@ Utilizaremos la metodología de Grupos de Desarrollo:
 - Crear materiales sobre ROS en GitHub que sirvan de material de formación para otros estudiantes.
 
 ## Introducción
+
+Intro
+
 [Intro]: https://github.com/GDMakers/DGRobotis4Rookies/blob/master/Intro/Intro.md
 
 ## Temporalización
