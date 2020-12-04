@@ -5,6 +5,7 @@
 # Objetivos del proyecto
 El objetivo general del proyecto es fomentar el uso de la tecnología, elaborando materiales de forma colaborativa entre estudiantes de diversos centros educativos que sean útiles para la sociedad.
 
+![Logotipo de DGMakers] (images/DGMakersH.png)
 
 ## Objetivos pedagógicos
 Nos centraremos en el desarrollo de las habilidades blandas entre los estudiantes:
