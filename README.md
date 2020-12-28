@@ -44,8 +44,8 @@ Utilizaremos la metodología de Grupos de Desarrollo:
 ### Fechas límite
 
 Formación
-- 20 enero: formación en GitHub.
-- 15 febrero: formación en ROS.
+- 20 febrero: formación en GitHub.
+- 15 marzo: formación en ROS.
 
 Elaboración de materiales
 
